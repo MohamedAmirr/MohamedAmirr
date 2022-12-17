@@ -9,10 +9,17 @@ Skills: C++ / JAVA / Python / HTML / CSS / OOP / Algorithms / Data Structures
 
 [<img src='https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/c%2B%2B.svg' alt='c++' height='80'>](https://github.com/MohamedAmirr) [<img src='https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/c.svg' alt='c' height='80'>](https://github.com/MohamedAmirr) [<img src='https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/python.svg' alt='Python' height='80'>](https://github.com/MohamedAmirr) [<img src='https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/java.svg' alt='Java' height='80'>](https://github.com/MohamedAmirr) [<img src='https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/others/html.svg' alt='HTML' height='80'>](https://github.com/MohamedAmirr) [<img src='https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/others/css.svg' alt='CSS' height='80'>](https://github.com/MohamedAmirr)
 
-- Connect With Me
+<h3 align='left'>- Connect With Me</h3>
 
-
-[<img src='https://asset.brandfetch.io/idJFz6sAsl/id18wpWxxf.svg?updated=1668515279827' alt='linkedin' height='45'>](https://www.linkedin.com/in/mohamed-amir-907311190//)  [<img src='https://asset.brandfetch.io/idpKX136kp/id4P3q9qSr.svg?updated=1668071013037' alt='facebook' height='45'>](https://www.facebook.com/100008907970849)  [<img src='https://asset.brandfetch.io/idM2-b7Taf/idkBLmkYia.jpeg?updated=1667565086056' alt='codechef' height='45'>](https://www.codechef.com/users/amir_1)  [<img src='https://asset.brandfetch.io/idMR4CMjcL/idPWmM8aOc.png?updated=1667564473060' alt='codeforces' height='45'>](https://codeforces.com/profile/ITADORII) 
+<a href="https://www.linkedin.com/in/mohamed-amir-907311190/">
+  <img src='https://asset.brandfetch.io/idJFz6sAsl/id18wpWxxf.svg?updated=1668515279827' alt='linkedin' height='45'>  
+</a>
+<a href="https://www.facebook.com/100008907970849">
+  <img src='https://asset.brandfetch.io/idpKX136kp/id4P3q9qSr.svg?updated=1668071013037' alt="Facebook" height='45'>  
+</a>
+<a href="https://www.codechef.com/users/amir_1">
+  <img src='https://asset.brandfetch.io/idM2-b7Taf/idkBLmkYia.jpeg?updated=1667565086056' alt="Codechef" height='45'>  
+</a>
 <a href="https://codeforces.com/profile/ITADORII">
   <img src='https://asset.brandfetch.io/idMR4CMjcL/idPWmM8aOc.png?updated=1667564473060' alt='Codeforces' height='45'>
 </a> 
