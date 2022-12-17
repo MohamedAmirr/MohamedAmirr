@@ -32,5 +32,7 @@ Skills: C++ / JAVA / Python / HTML / CSS / OOP / Algorithms / Data Structures
 <a href="https://github.com/MohamedAmirr">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MohamedAmirr&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mohamed's GitHub Stats" />
 </a>
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedAmirr&repo=Competitive-Programming&&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/MohamedAmirr/Competitive-Programming">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedAmirr&repo=Competitive-Programming&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
