@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Mohamed Amir
+## Hi there 👋, My name is Mohamed Amir
 #### CS Student and Competitive Programmer
 
 I'm Working Hard to gain more information and experience, Self-Motivated, Passionate about
