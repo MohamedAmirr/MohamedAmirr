@@ -29,7 +29,5 @@ Skills: C++ / JAVA / Python / HTML / CSS / OOP / Algorithms / Data Structures
 <br>
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedAmirr)](https://github.com/anuraghazra/github-readme-stats)
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedAmirr&repo=Competitive-Programming&&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedAmirr)](https://github.com/anuraghazra/github-readme-stats) <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedAmirr&repo=Competitive-Programming&&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 
