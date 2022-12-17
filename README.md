@@ -6,7 +6,8 @@ technologies, competitive programming, problem-solving, and Algorithms, and I ne
 improve my programming skills, and other skills as well.
 
 Skills: C++ / JAVA / Python / HTML / CSS / OOP / Algorithms / Data Structures
-[<img src='https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/c%2B%2B.svg' alt='c++' height='40'>](https://github.com/MohamedAmirr)s
+
+[<img src='https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/c%2B%2B.svg' alt='c++' height='40'>](https://github.com/MohamedAmirr)
 
 - 🔭 I’m currently CS Student. 
 
