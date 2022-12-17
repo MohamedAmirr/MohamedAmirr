@@ -27,6 +27,7 @@ Skills: C++ / JAVA / Python / HTML / CSS / OOP / Algorithms / Data Structures
   <img src='https://asset.brandfetch.io/id5o3EIREg/id7_LpASqj.svg?updated=1671035363218' alt='gmail' height='45'>
 </a> 
 <br>
+<br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedAmirr)](https://github.com/anuraghazra/github-readme-stats)
 
