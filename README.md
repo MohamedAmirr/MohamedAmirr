@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Mohamed Amir
-#### I am a CS Student and Competitive Programmer
+#### CS Student and Competitive Programmer
 
 I'm Working Hard to gain more information and experience, Self-Motivated, Passionate about
 technologies, competitive programming, problem-solving, and Algorithms, and I need to
