@@ -1,9 +1,7 @@
 # Hi there 👋, My name is Mohamed Amir
 ### CS Student and Competitive Programmer
 
-I'm Working Hard to gain more information and experience, Self-Motivated, Passionate about
-technologies, competitive programming, problem-solving, and Algorithms, and I need to
-improve my programming skills, and other skills as well.
+My name is Mohamed Amir, 20 years old, a Computer science student, and a competitive programmer for 3 years until now, passionate about technologies, problem-solving, and coding, self-motivated, and Working hard to gain more information and experience, having experience in data structures and algorithms and still learn it.
 
 <h3 >Check My <a href="https://drive.google.com/file/d/1PVU1qWcpVTwfDql6QtwrMUwPHjSQL4EX/view?usp=sharing">
   Resume  
