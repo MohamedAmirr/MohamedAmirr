@@ -14,7 +14,7 @@ Skills: C++ / JAVA / Python / HTML / CSS / OOP / Algorithms / Data Structures
 
 <h3 align='left'>- Connect With Me</h3>
 
-<a href="https://www.linkedin.com/in/mohamed-amir-907311190/">
+<a href="https://www.linkedin.com/in/mohamed-amir1/">
   <img src='https://asset.brandfetch.io/idJFz6sAsl/id18wpWxxf.svg?updated=1668515279827' alt='linkedin' height='45'>  
 </a>
 <a href="https://www.facebook.com/100008907970849">
